@@ -7,7 +7,7 @@ from pyrogram.types import Message
 
 API_ID = 24926482  # Buraya kendi API ID'ni yaz
 API_HASH = "00bb872c6a01aa3666d84af7b7ed660a"  # Buraya kendi API Hash'ini yaz
-SAHIB_ID = 123456789  # Sadece senin ID’n
+SAHIB_ID = 2100778583  # Sadece senin ID’n
 
 bot = Client("blayzen_userbot", api_id=API_ID, api_hash=API_HASH)
 
